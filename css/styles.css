@@ -16,8 +16,13 @@ header h1{
     text-align: center;
     font-size: 80px;
     font-family: 'Roboto Slab', serif;
-    background-color: antiquewhite
+    background-color: antiquewhite   
 }
+
+header div div:hover {
+    background-color: rgb(228, 172, 172);
+    font-size: 25px;}
+
 
 p{
     color: maroon;
